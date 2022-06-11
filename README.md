@@ -6,5 +6,5 @@
 <h3>O que é necessário para rodar ?</h3>
 <p> Mysql (fiz a utilização no Mysql Workbench), instalar os módulos: Mysql-connector e Mysql-connector-Python </p>
 <p>Comando para instalar os módulos: <br>
-Mysql-connector: pip install mysql-connector <br>
-Mysql-connector-Python: pip install mysql-connector-python</p>
+-Mysql-connector: pip install mysql-connector <br>
+-Mysql-connector-Python: pip install mysql-connector-python</p>
