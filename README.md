@@ -1,6 +1,6 @@
 # CRUD-Python
 <h4 align="center"> 
-	🚧  Status: &#U+2705; Finalizado 🚧
+	🚧  Status:✅ Finalizado 🚧
 </h4>
 <h3> <b>Qual o objetivo do projeto? </b></h3>
 <p> O projeto consiste em demonstrar a conexão com o banco de dados (Mysql) utilizando a linguagem (Python) e a abordagem do "CRUD".
